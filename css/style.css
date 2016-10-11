@@ -1,10 +1,7 @@
 ul{
   list-style-type: none;
   margin: 0;
-  padding: 0;
-  font-family: cursive;
-  font-size: 20;
-  color: yellow;
+  padding: 150;
 }
 
 li{
@@ -18,11 +15,9 @@ a{
 }
 h1{
   text-align: center;
-  color: yellow;
 }
 h2{
   text-align: center;
-  color: yellow;
 }
 
 img{
@@ -30,7 +25,4 @@ img{
   margin: 25px 10px;
   height: 50%;
   width: 50%;
-}
-body{
-  background-color: turquoise;
 }
