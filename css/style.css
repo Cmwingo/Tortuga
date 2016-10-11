@@ -1,0 +1,28 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 150;
+}
+
+li{
+  float: left;
+}
+
+a{
+  display: block;
+  padding: 15px;
+  background-color: #dddddd;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+img{
+  display: inline-block;
+  margin: 25px 10px;
+  height: 50%;
+  width: 50%;
+}
